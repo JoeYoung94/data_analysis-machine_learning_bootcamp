@@ -1,0 +1,2 @@
+pandas practice code is in other source.
+I'll get that and upload it sometime
